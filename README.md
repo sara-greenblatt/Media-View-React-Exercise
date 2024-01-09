@@ -6,5 +6,5 @@ Demo:
 ![List View](./public/listView.png)
 ![Movie](./public/mediaPreview.png)
 
-
+###
 Author: Sara Greenblatt
